@@ -1,7 +1,12 @@
-## README
+## Chatter
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Getting started with Rails 5's ActionCable and websockets
+
+Currently Working only with sessions, no Data base is included
+
+## Demo Screen and working:
+
+![](http://i.imgur.com/vI67bqW.png)
 
 Things you may want to cover:
 
