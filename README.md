@@ -1,6 +1,6 @@
 ## Chatter
 
-Getting started with Rails 5's ActionCable and websockets
+Getting started with Rails 5's ActionCable and websockets. Integrated AngularJs insights.
 
 Currently Working only with sessions, no Data base is included
 
